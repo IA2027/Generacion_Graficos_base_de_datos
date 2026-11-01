@@ -1,0 +1,7 @@
+# SISTEMA DE VENTAS 
+## CON BASE DE DATOS 
+## GENERACION DE BASE DE DATOS 
+## GENERACION DE GRAFICOS INTERACTIVOS 
+## GENERACION DE CSV con datos 
+## enlace al video demo 
+https://youtu.be/mj-7sJ6zDbk
